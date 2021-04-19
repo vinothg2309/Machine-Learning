@@ -172,5 +172,7 @@ Pipeline --> https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
 Attention Model
 Fake News Classifier - Programming in http://localhost:8888/notebooks/Section%207%3ANatural%20Language%20Processing(NLP)/Youtube-Krish%20Naik/NLP%20Workouts/Fake%20News%20Classifier.ipynb
 https://www.youtube.com/watch?v=MO5n5JaRotc&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=14
+Class weights in RandomForestClassifier
+Handling imbalanced dataset
 Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
 
