@@ -23,6 +23,7 @@ Jupyter Notebook Shortcuts ---> https://gist.github.com/kidpixo/f4318f8c8143adee
 Indepth ML ---> https://www.mygreatlearning.com/blog/adaboost-algorithm/
 **https://github.com/krishnaik06/Machine-Learning-in-90-days
 ML using Flask ---> https://github.com/krishnaik06/Deployment-flask
+***ML deployment in docker & kubernetes(GKE) ---> https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
 
 Tensorflow
 **********
@@ -148,7 +149,7 @@ SVM Mathematical intuition
 convergence theorem
 Lasso & Ridge regression
 Boosting algorithm revise again
-Performance matrics (ROC, AUC curve) for classification
+Performance metrics (ROC, AUC curve) for classification
 underfitting vs overfitting
 Section 5:Association Rule Learning
 Section 6:Reinforcement Learning
