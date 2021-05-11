@@ -144,7 +144,7 @@ New todo
 StandardScaler vs NormizedScaler vs MinMaxScaler - D
 Loss function in tensorflow
 Gradient descent - D
-Gradient descent - Partial or total derivative?
+Gradient descent - Partial or total derivative? D
 SVM Mathematical intuition
 convergence theorem
 Lasso & Ridge regression
@@ -178,4 +178,6 @@ Class weights in RandomForestClassifier
 Handling imbalanced dataset
 Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
 P Value,T test,Chi Square Test, Anova Test
-
+PDF, CDF
+DBScan
+Silhouette-clustering
