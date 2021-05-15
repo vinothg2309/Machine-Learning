@@ -157,27 +157,32 @@ Section 7:Natural Language Processing(NLP)
 Section 9:Dimensionality Reduction
 Section 10:Model Selection & Boosting
 How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
-Weight Initialization
+Weight Initialization - D
 Stochastic Gradient finding global minimum
-SGD with Momentum
-Adam optimizer
+SGD with Momentum - D
+Adam optimizer - D
 chatbot
-Accuracy_Precision_Recall_F1
+Accuracy_Precision_Recall_F1 - D
 CNN Transfer Learning - VGG16, Restnet etc
 Skip-gram Algorithm, TF-IDF, Common Bag Of Words (CBOW), Bag of Words vs Word Embedding
 Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 LSTM -->timeseries
-Saving Train & Test set in file
+Saving Train & Test set in file - D
 Deployment using Flask with serverless, Google cloud & AWS ---> https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/table-of-contents
-Pipeline --> https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+Pipeline --> https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines - D
 Attention Model
 Fake News Classifier - Programming in http://localhost:8888/notebooks/Section%207%3ANatural%20Language%20Processing(NLP)/Youtube-Krish%20Naik/NLP%20Workouts/Fake%20News%20Classifier.ipynb
 https://www.youtube.com/watch?v=MO5n5JaRotc&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=14
 Class weights in RandomForestClassifier
-Handling imbalanced dataset
+Handling imbalanced dataset - D
 Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
 P Value,T test,Chi Square Test, Anova Test
 PDF, CDF
 DBScan
 Silhouette-clustering
+Time Series cross validation
+L2 & L1 regularization
+Python deployment descriptor
+Ensemble Techniques - handling imbalanced dataset --> https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
+Pipeline in Tensorflow
