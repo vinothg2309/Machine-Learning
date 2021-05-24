@@ -160,31 +160,30 @@ CNN Transfer Learning - VGG16, Restnet etc - D
 convergence theorem
 Loss function in tensorflow
 SVM Mathematical intuition
-
-
+Class weights in RandomForestClassifier - For handling imbalanced dataset
+Section 10:Model Selection & Boosting
 Boosting algorithm revise again
 Performance metrics (ROC, AUC curve) for classification
+P Value,T test,Chi Square Test, Anova Test
+DBScan
+Silhouette-clustering
+Skip-gram Algorithm, TF-IDF, Continuous Bag Of Words (CBOW), Bag of Words vs Word Embedding
+Section 7:Natural Language Processing(NLP)
+Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
 Section 5:Association Rule Learning
 Section 6:Reinforcement Learning
-Section 7:Natural Language Processing(NLP)
-Section 10:Model Selection & Boosting
 How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
 chatbot
-Skip-gram Algorithm, TF-IDF, Continuous Bag Of Words (CBOW), Bag of Words vs Word Embedding
-Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 LSTM -->timeseries
 Attention Model
 https://www.youtube.com;/watch?v=MO5n5JaRotc&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=14
-Class weights in RandomForestClassifier
-P Value,T test,Chi Square Test, Anova Test
 PDF, CDF
-DBScan
-Silhouette-clustering
 Time Series cross validation
 Python deployment descriptor
 Pipeline in Tensorflow
-
+Tensorflow workout
 
 Least important
 ***************
