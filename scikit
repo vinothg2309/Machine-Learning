@@ -170,20 +170,20 @@ Silhouette-clustering
 Skip-gram Algorithm, TF-IDF, Continuous Bag Of Words (CBOW), Bag of Words vs Word Embedding
 Section 7:Natural Language Processing(NLP)
 Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
+Attention Model
 
+Attention Model implementation
 Section 5:Association Rule Learning
 Section 6:Reinforcement Learning
-How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
 chatbot
-LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 LSTM -->timeseries
-Attention Model
-https://www.youtube.com;/watch?v=MO5n5JaRotc&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=14
 PDF, CDF
-Time Series cross validation
 Python deployment descriptor
 Pipeline in Tensorflow
 Tensorflow workout
+Tensorflow computer vision
 
 Least important
 ***************
