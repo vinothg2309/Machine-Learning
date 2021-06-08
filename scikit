@@ -46,6 +46,7 @@ CNN ---> https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/mast
 LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 google teachablemachine ---> https://teachablemachine.withgoogle.com/
 pandas data repo ---> https://pandas-datareader.readthedocs.io/
+Tensorflow object detection installation - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
 **********
 Regression 
@@ -184,9 +185,28 @@ Python deployment descriptor
 Pipeline in Tensorflow
 Tensorflow workout
 Tensorflow computer vision
+Flask with DB
+Tensorboard
+Hugging face transformers
+Tensorflow object
+BERT
 
 Least important
 ***************
 Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
 Fake News Classifier - Programming in http://localhost:8888/notebooks/Section%207%3ANatural%20Language%20Processing(NLP)/Youtube-Krish%20Naik/NLP%20Workouts/Fake%20News%20Classifier.ipynb
 Deployment using Flask with serverless, Google cloud & AWS ---> https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/table-of-contents
+
+Interview quiz
+**************
+
+Best classification Algorithm to predict 100 different classes? ---> clustering will be applied. V apply custom classification algorithm.
+Flask vs Django
+Resnet vs VGG
+Image classification model
+**Tensorflow object detection
+Fast r CNN
+kappa score
+
+
+
