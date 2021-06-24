@@ -174,34 +174,39 @@ Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-
 LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
 Attention Model
+PDF, CDF
+Pipeline in Tensorflow
+Python deployment descriptor - pipreqs
+Deep Learning NLP - https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
 
 Attention Model implementation
 Section 5:Association Rule Learning
 Section 6:Reinforcement Learning
 chatbot
 LSTM -->timeseries
-PDF, CDF
-Python deployment descriptor
-Pipeline in Tensorflow
 Tensorflow workout
-Tensorflow computer vision
+Tensorflow computer vision - Tensorflow object
 Flask with DB
-Tensorboard
 Hugging face transformers
-Tensorflow object
 BERT
+ML using Fast API
+
 
 XGBoost Mathematical intuition
 L2 loss in ML-Useful_doc
 Classification losses
 Associated Rule learning
 Reinforcement Learning
+Transfer Learning
+
 
 Least important
 ***************
 Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
 Fake News Classifier - Programming in http://localhost:8888/notebooks/Section%207%3ANatural%20Language%20Processing(NLP)/Youtube-Krish%20Naik/NLP%20Workouts/Fake%20News%20Classifier.ipynb
 Deployment using Flask with serverless, Google cloud & AWS ---> https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/table-of-contents
+Tensorboard
+
 
 Interview quiz
 **************
