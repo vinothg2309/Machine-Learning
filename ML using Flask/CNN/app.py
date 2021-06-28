@@ -30,6 +30,7 @@ def model_predict(filepath):
         preds="The Person is Infected With Pneumonia"
     else:
         preds="The Person is not Infected With Pneumonia"
+        
     
     
     return preds
