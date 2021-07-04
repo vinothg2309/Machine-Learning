@@ -178,28 +178,23 @@ PDF, CDF
 Pipeline in Tensorflow
 Python deployment descriptor - pipreqs
 Deep Learning NLP - https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
-
+ML using Fast API
+Hugging face transformers
+BERT
+ASGI vs WSGI
 Attention Model implementation
-Section 5:Association Rule Learning
-Section 6:Reinforcement Learning
+
 chatbot
 LSTM -->timeseries
 Tensorflow workout
 Tensorflow computer vision - Tensorflow object
 Flask with DB
-Hugging face transformers
-BERT
-ML using Fast API
-
-
 XGBoost Mathematical intuition
 L2 loss in ML-Useful_doc
 Classification losses
 Associated Rule learning
 Reinforcement Learning
 Transfer Learning
-ASGI vs WSGI
-
 
 Least important
 ***************
@@ -213,12 +208,12 @@ Interview quiz
 **************
 
 Best classification Algorithm to predict 100 different classes? ---> clustering will be applied. V apply custom classification algorithm.
-Flask vs Django
-Resnet vs VGG
+Flask vs Django ----> D
+Resnet vs VGG 
 Image classification model
 **Tensorflow object detection
-Fast r CNN
-kappa score
+Fast R-CNN ----> D
+kappa score ---> D
 
 
 
