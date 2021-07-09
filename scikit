@@ -24,6 +24,7 @@ Indepth ML ---> https://www.mygreatlearning.com/blog/adaboost-algorithm/
 **https://github.com/krishnaik06/Machine-Learning-in-90-days
 ML using Flask ---> https://github.com/krishnaik06/Deployment-flask
 ***ML deployment in docker & kubernetes(GKE) ---> https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
+***Git Repo for ML - https://github.com/DakshaLearning/26-Weeks-Of-Data-Science
 
 Tensorflow
 **********
@@ -195,6 +196,10 @@ Classification losses
 Associated Rule learning
 Reinforcement Learning
 Transfer Learning
+one hot vs Label Encoding
+Custom pipeline
+EDA tools
+
 
 Least important
 ***************
