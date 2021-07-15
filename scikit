@@ -184,6 +184,8 @@ Hugging face transformers
 BERT
 ASGI vs WSGI
 Attention Model implementation
+Custom pipeline
+EDA tools
 
 chatbot
 LSTM -->timeseries
@@ -197,8 +199,9 @@ Associated Rule learning
 Reinforcement Learning
 Transfer Learning
 one hot vs Label Encoding
-Custom pipeline
-EDA tools
+Recommendation system
+Handling & throwing exception
+Time series
 
 
 Least important
