@@ -1,0 +1,33 @@
+2021-06-01 19:08:34,491 INFO    MainThread:26198 [wandb_setup.py:_flush():69] setting env: {}
+2021-06-01 19:08:34,491 INFO    MainThread:26198 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-06-01 19:08:34,491 INFO    MainThread:26198 [wandb_setup.py:_flush():69] setting login settings: {'mode': 'offline'}
+2021-06-01 19:08:34,491 INFO    MainThread:26198 [wandb_init.py:_log_setup():336] Logging user logs to /home/vinoth/Learning/Python/Workouts/ML-Udemy-Git/Section 7:Natural Language Processing(NLP)/Transformer & Bert using HuggingFace/Custom Question Answering/wandb/offline-run-20210601_190834-1z1i8ud9/logs/debug.log
+2021-06-01 19:08:34,492 INFO    MainThread:26198 [wandb_init.py:_log_setup():337] Logging internal logs to /home/vinoth/Learning/Python/Workouts/ML-Udemy-Git/Section 7:Natural Language Processing(NLP)/Transformer & Bert using HuggingFace/Custom Question Answering/wandb/offline-run-20210601_190834-1z1i8ud9/logs/debug-internal.log
+2021-06-01 19:08:34,493 INFO    MainThread:26198 [wandb_init.py:_jupyter_setup():287] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7feb5a3cf370>
+2021-06-01 19:08:34,494 INFO    MainThread:26198 [wandb_init.py:init():369] calling init triggers
+2021-06-01 19:08:34,495 INFO    MainThread:26198 [wandb_init.py:init():374] wandb.init called with sweep_config: {}
+config: {'adafactor_beta1': None, 'adafactor_clip_threshold': 1.0, 'adafactor_decay_rate': -0.8, 'adafactor_eps': (1e-30, 0.001), 'adafactor_relative_step': True, 'adafactor_scale_parameter': True, 'adafactor_warmup_init': True, 'adam_epsilon': 1e-08, 'best_model_dir': 'outputs/bert/best_model', 'cache_dir': 'cache_dir/', 'config': {}, 'cosine_schedule_num_cycles': 0.5, 'custom_layer_parameters': [], 'custom_parameter_groups': [], 'dataloader_num_workers': 0, 'do_lower_case': False, 'dynamic_quantize': False, 'early_stopping_consider_epochs': False, 'early_stopping_delta': 0, 'early_stopping_metric': 'correct', 'early_stopping_metric_minimize': False, 'early_stopping_patience': 3, 'encoding': None, 'eval_batch_size': 64, 'evaluate_during_training': True, 'evaluate_during_training_silent': True, 'evaluate_during_training_steps': 1000, 'evaluate_during_training_verbose': False, 'evaluate_each_epoch': True, 'fp16': False, 'gradient_accumulation_steps': 1, 'learning_rate': 4e-05, 'local_rank': -1, 'logging_steps': 50, 'manual_seed': None, 'max_grad_norm': 1.0, 'max_seq_length': 128, 'model_name': 'bert-base-cased', 'model_type': 'bert', 'multiprocessing_chunksize': -1, 'n_gpu': 1, 'no_cache': False, 'no_save': False, 'not_saved_args': [], 'num_train_epochs': 5, 'optimizer': 'AdamW', 'output_dir': 'outputs/bert', 'overwrite_output_dir': True, 'polynomial_decay_schedule_lr_end': 1e-07, 'polynomial_decay_schedule_power': 1.0, 'process_count': 2, 'quantized_model': False, 'reprocess_input_data': True, 'save_best_model': True, 'save_eval_checkpoints': False, 'save_model_every_epoch': False, 'save_optimizer_and_scheduler': True, 'save_steps': 2000, 'scheduler': 'linear_schedule_with_warmup', 'silent': False, 'skip_special_tokens': True, 'tensorboard_dir': None, 'thread_count': None, 'tokenizer_name': None, 'tokenizer_type': None, 'train_batch_size': 128, 'train_custom_parameters_only': False, 'use_cached_eval_features': True, 'use_early_stopping': False, 'use_hf_datasets': False, 'use_multiprocessing': True, 'use_multiprocessing_for_evaluation': True, 'wandb_kwargs': {'name': 'bert-base-cased'}, 'wandb_project': 'Question Answer Application', 'warmup_ratio': 0.06, 'warmup_steps': 1, 'weight_decay': 0.0, 'model_class': 'QuestionAnsweringModel', 'doc_stride': 384, 'lazy_loading': False, 'max_answer_length': 100, 'max_query_length': 64, 'n_best_size': 3, 'null_score_diff_threshold': 0.0, 'special_tokens_list': [], 'repo': 'simpletransformers'}
+2021-06-01 19:08:34,495 INFO    MainThread:26198 [wandb_init.py:init():418] starting backend
+2021-06-01 19:08:34,495 INFO    MainThread:26198 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-06-01 19:08:34,676 INFO    MainThread:26198 [backend.py:ensure_launched():132] starting backend process...
+2021-06-01 19:08:34,728 INFO    MainThread:26198 [backend.py:ensure_launched():136] started backend process with pid: 15992
+2021-06-01 19:08:34,730 INFO    MainThread:26198 [wandb_init.py:init():423] backend started and connected
+2021-06-01 19:08:34,770 INFO    MainThread:26198 [wandb_init.py:init():465] updated telemetry
+2021-06-01 19:08:34,776 INFO    MainThread:26198 [wandb_init.py:init():522] starting run threads in backend
+2021-06-01 19:08:39,782 INFO    MainThread:26198 [wandb_run.py:_console_start():1538] atexit reg
+2021-06-01 19:08:39,783 INFO    MainThread:26198 [wandb_run.py:_redirect():1412] redirect: SettingsConsole.WRAP
+2021-06-01 19:08:39,787 INFO    MainThread:26198 [wandb_run.py:_redirect():1449] Wrapping output streams.
+2021-06-01 19:08:39,791 INFO    MainThread:26198 [wandb_run.py:_redirect():1473] Redirects installed.
+2021-06-01 19:08:39,791 INFO    MainThread:26198 [wandb_init.py:init():547] run started, returning control to user process
+2021-06-01 19:08:39,791 INFO    MainThread:26198 [wandb_watch.py:watch():40] Watching
+2021-06-01 19:12:58,289 INFO    MainThread:26198 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 19:12:58,581 INFO    MainThread:26198 [jupyter.py:save_ipynb():265] not saving jupyter notebook
+2021-06-01 19:22:20,634 INFO    MainThread:26198 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 19:22:25,324 INFO    MainThread:26198 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 19:22:25,325 INFO    MainThread:26198 [jupyter.py:save_ipynb():265] not saving jupyter notebook
+2021-06-01 19:22:36,575 INFO    MainThread:26198 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 19:22:36,576 INFO    MainThread:26198 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 19:22:36,577 INFO    MainThread:26198 [jupyter.py:save_ipynb():265] not saving jupyter notebook
+2021-06-01 19:22:48,383 INFO    MainThread:26198 [wandb_init.py:_resume_backend():258] resuming backend
+2021-06-01 19:22:49,919 INFO    MainThread:26198 [wandb_init.py:_pause_backend():249] pausing backend
+2021-06-01 19:22:49,920 INFO    MainThread:26198 [jupyter.py:save_ipynb():265] not saving jupyter notebook

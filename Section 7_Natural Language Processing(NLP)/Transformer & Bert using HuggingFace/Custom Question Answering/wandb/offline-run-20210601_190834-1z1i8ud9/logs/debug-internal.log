@@ -1,0 +1,27 @@
+2021-06-01 19:08:53,447 INFO    MainThread:15992 [internal.py:wandb_internal():88] W&B internal server running at pid: 15992, started at: 2021-06-01 19:08:53.447289
+2021-06-01 19:08:53,481 INFO    WriterThread:15992 [datastore.py:open_for_write():77] open: /home/vinoth/Learning/Python/Workouts/ML-Udemy-Git/Section 7:Natural Language Processing(NLP)/Transformer & Bert using HuggingFace/Custom Question Answering/wandb/offline-run-20210601_190834-1z1i8ud9/run-1z1i8ud9.wandb
+2021-06-01 19:08:53,483 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: run_start
+2021-06-01 19:12:30,375 DEBUG   HandlerThread:15992 [meta.py:__init__():39] meta init
+2021-06-01 19:12:30,498 DEBUG   HandlerThread:15992 [meta.py:__init__():53] meta init done
+2021-06-01 19:12:30,498 DEBUG   HandlerThread:15992 [meta.py:probe():210] probe
+2021-06-01 19:12:31,215 DEBUG   HandlerThread:15992 [meta.py:_setup_git():200] setup git
+2021-06-01 19:12:35,239 DEBUG   HandlerThread:15992 [meta.py:_setup_git():207] setup git done
+2021-06-01 19:12:35,239 DEBUG   HandlerThread:15992 [meta.py:_save_pip():57] save pip
+2021-06-01 19:12:35,837 DEBUG   HandlerThread:15992 [meta.py:_save_pip():71] save pip done
+2021-06-01 19:12:35,837 DEBUG   HandlerThread:15992 [meta.py:_save_conda():78] save conda
+2021-06-01 19:14:53,456 DEBUG   HandlerThread:15992 [meta.py:_save_conda():86] save conda done
+2021-06-01 19:14:53,468 DEBUG   HandlerThread:15992 [meta.py:probe():252] probe done
+2021-06-01 19:14:53,578 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: pause
+2021-06-01 19:14:53,578 INFO    HandlerThread:15992 [handler.py:handle_request_pause():525] stopping system metrics thread
+2021-06-01 19:22:20,637 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: resume
+2021-06-01 19:22:20,637 INFO    HandlerThread:15992 [handler.py:handle_request_resume():520] starting system metrics thread
+2021-06-01 19:22:25,325 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: pause
+2021-06-01 19:22:25,326 INFO    HandlerThread:15992 [handler.py:handle_request_pause():525] stopping system metrics thread
+2021-06-01 19:22:36,580 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: resume
+2021-06-01 19:22:36,580 INFO    HandlerThread:15992 [handler.py:handle_request_resume():520] starting system metrics thread
+2021-06-01 19:22:36,585 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: pause
+2021-06-01 19:22:36,585 INFO    HandlerThread:15992 [handler.py:handle_request_pause():525] stopping system metrics thread
+2021-06-01 19:22:48,388 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: resume
+2021-06-01 19:22:48,388 INFO    HandlerThread:15992 [handler.py:handle_request_resume():520] starting system metrics thread
+2021-06-01 19:22:49,922 DEBUG   HandlerThread:15992 [handler.py:handle_request():124] handle_request: pause
+2021-06-01 19:22:49,923 INFO    HandlerThread:15992 [handler.py:handle_request_pause():525] stopping system metrics thread

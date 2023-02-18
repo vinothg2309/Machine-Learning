@@ -1,0 +1,86 @@
+********
+TO LEARN
+********
+
+importing modules
+iteration tool
+numpy
+  Pandas 
+   - panel
+   - Function Application
+scikit
+  Linear vs Palinomial regression when to use it?
+
+Pandas
+******
+# In exercies(/home/vinoth/Learning/Python/Workouts/pandas/Exercises)
+ --> to display most frequent value in a given series and replace everything else as 'Other' in the series. 
+ --> to find the positions of numbers that are multiples of 5 of a given series. 
+ --> groupBy
+
+
+***************************************
+Convert jupyter-notebook(.ipynb) to .py
+***************************************
+
+ipython nbconvert --to python *.ipynb  --->  Convert in current Directory
+find . -name "*.ipynb" -exec ipython nbconvert --to=python {} \; ---> Convert in all sub directory recursively
+
+***********
+Python docs
+***********
+
+https://www.geeksforgeeks.org/numpy-ndarray/ ---> Contains all package details(Numpy, pandas etc....)
+
+
+***********
+Pycharm IDE
+***********
+
+sh pycharm.sh in /home/vinoth/Learning/Python/pycharm-community-2020.2.3/bin
+
+******
+Spyder
+******
+spyder ---> Run this command which will open spyder4. Don't run spyder3 since autocompletion isn't wotrking.
+Tools -> Preference -> completion and Linting -> change "show automatic completion ..." to 1 & 100ms
+
+*******
+jupyter
+*******
+
+jupyter notebook ---> Navigate to the specific folder and run this command
+Simply hit the "Tab" key while writing code for autocompletion
+Shortcut ---> https://www.earthdatascience.org/courses/intro-to-earth-data-science/file-formats/use-text-files/format-text-with-markdown-jupyter-notebook/
+
+
+****
+Data
+****
+
+https://github.com/tategallery/collection
+
+********
+Anaconda
+********
+Anaconda Navigator - cd /home/vinoth/anaconda3/bin/ & run ./anaconda-navigator
+
+
+*****
+UDEMY
+*****
+
+Codes & Dataset - https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
+
+************
+Conda vs pip
+************	
+			conda		pip
+manages  		binaries	wheel or source
+can require compilers	no		yes
+package types		any		Python-only
+create environment	yes, built-in	no, requires virtualenv or venv
+dependency checks	yes		no
+
+Package path - /home/vinoth/.local/lib/python3.8/site-packages
+

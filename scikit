@@ -1,0 +1,228 @@
+************
+Useful Links
+************
+
+Ensemble Learning --> https://medium.com/swlh/random-forest-and-its-implementation-71824ced454f
+Coursera for ML --> https://www.coursera.org/lecture/python-machine-learning/overfitting-and-underfitting-fVStr
+Supervised & Unsupervised Learning --> https://www.guru99.com/supervised-vs-unsupervised-learning.html
+Regression vs Classification --> https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification
+
+**DataSet fo all algorithm ----> https://archive.ics.uci.edu/ml/datasets.php
+Logistic Regression practice ---> https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/learn/lecture/18888180#overview
+K-Means ---> https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/
+Chatbot ---> https://machinelearningtokyo.com/2017/11/09/3-tutorials-how-to-build-a-chatbot/
+Metrics ---> https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology, https://en.wikipedia.org/wiki/Confusion_matrix
+Decision Tree functionality ---> https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/
+Decision Tree Entropy,Gini Index & Information Gain ---> https://www.youtube.com/watch?v=Xfgq8zh8sDQ
+https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/
+BERT NLP ---> https://www.udemy.com/course/bert-nlp-algorithm/?couponCode=LEARNPATHMAY
+Entropy ---> https://www.youtube.com/watch?v=1IQOtJ4NI_0
+Information Gain ---> https://www.youtube.com/watch?v=FuTRucXB9rA
+Neural Network cost function ---> https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+Jupyter Notebook Shortcuts ---> https://gist.github.com/kidpixo/f4318f8c8143adee5b40
+Indepth ML ---> https://www.mygreatlearning.com/blog/adaboost-algorithm/
+**https://github.com/krishnaik06/Machine-Learning-in-90-days
+ML using Flask ---> https://github.com/krishnaik06/Deployment-flask
+***ML deployment in docker & kubernetes(GKE) ---> https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
+***Git Repo for ML - https://github.com/DakshaLearning/26-Weeks-Of-Data-Science
+
+Tensorflow
+**********
+Activation Model ---> https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+** Artificial Neural Network(ANN) ---> https://www.udemy.com/cart/subscribe/course/2968824/
+** ANN Complete details ---> https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann
+Provides details of all layer(Convolution, Pooling etc) - http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+Deep Learning ---> https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+Linear vs Non-linear activation Model - https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
+Batch vs epoch ---> https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+Activation vs Loss vs optimizer ---> https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c
+CNN ---> https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+krish Naik ---> https://github.com/krishnaik06/Complete-Deep-Learning
+krish Naik *********https://github.com/krishnaik06/*************
+dataset ---> https://storage.googleapis.com/tensorflow/, https://www.tensorflow.org/api_docs/python/tf/keras/datasets
+CodeBasic git ---> https://github.com/codebasics
+CodeBasic deep learning ---> https://github.com/codebasics/deep-learning-keras-tf-tutorial
+Deep Learning(CNN) ---> **********https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/****
+CNN ---> https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/16_cnn_cifar10_small_image_classification/cnn_cifar10_dataset.ipynb
+LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+google teachablemachine ---> https://teachablemachine.withgoogle.com/
+pandas data repo ---> https://pandas-datareader.readthedocs.io/
+Tensorflow object detection installation - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+
+**********
+Regression 
+**********
+Overfitting vs underfitting
+Bagging vs Boosting
+
+
+*******
+Metrics
+*******
+
+Regression
+**********
+   R-Squared
+   Adjusted R-squared
+Classification
+**************
+   Confusion Matrix
+   accuracy_score
+
+CART(Classification and Regression Tree)
+****************************************
+https://machinelearningmastery.com/classification-versus-regression-in-machine-learning
+https://sefiks.com/2018/08/27/a-step-by-step-cart-decision-tree-example/
+Git: https://github.com/serengil/chefboost
+C5.0
+Maximum Entropy
+   
+**********
+Validation
+**********
+
+K-fold Validation --> https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12
+
+*******
+Dataset
+*******
+
+Air Quality Index ---> https://en.tutiempo.net/climate
+
+********
+Anaconda
+********
+
+anaconda-navigator ---> Start anaconda
+
+********
+To Learn
+********
+Ridge, Lasso and elastic net regression
+Bagging vs Boosting
+Xgboost
+criterion{“gini”, “entropy”}, default=”gini” - (Decision Tree & Random forest classifier)
+K-fold validation vs train_test_split
+k-fold(Regression) vs Stratification(Classification) vs 
+CAP
+K-mean vs k-mean++
+SVM vs Kernal SVM
+scipy
+Upper Confidence Bound(UCB)
+Entropy in Decision tree
+Chatbot
+LogisticRegression vs LogisticRegressionCV
+gradient boosting
+CART vs C5.0 vs Maximum Entropy
+Decision tree - Entopy, Gini Index and Information Gain
+ktrain
+Challenges of One-Hot Encoding: Dummy Variable Trap
+Inverse transform OneHotEncoder and ColumnTransformer
+Dimensionality Reduction ---> Feature Selection, Feature Extraction
+PCA vs LDA vs Kernel PCA
+MatplotLib
+CatBoost
+AUC & ROC
+
+Tensor Flow
+***********
+TensorFlow - y v need to compile? & optimizer
+Activation function purpose
+CNN - Sequential
+Loss function types, Optimizer types
+
+Flask
+*****
+cmd to run ---> python server.py
+curl -XPOST http://localhost:9000/api -H 'Content-Type: application/json' -d @test_data.json
+
+Forum
+*****
+
+youtube ==> springboard india ==> https://www.youtube.com/channel/UCg5UINpJgS4uqWZkv2Qh1Mw
+
+New todo
+********
+StandardScaler vs NormizedScaler vs MinMaxScaler - D
+Gradient descent - D
+Lasso & Ridge regression - D
+underfitting vs overfitting - D
+Weight Initialization - D
+SGD with Momentum - D
+Adam optimizer - D
+Accuracy_Precision_Recall_F1 - D
+Saving Train & Test set in file - D
+Pipeline --> https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines - D
+Handling imbalanced dataset - D
+L2 & L1 regularization - D
+Gradient descent - Partial or total derivative? - D
+Section 9:Dimensionality Reduction - D
+Stochastic Gradient finding global minimum - D
+CNN Transfer Learning - VGG16, Restnet etc - D
+convergence theorem
+Loss function in tensorflow
+SVM Mathematical intuition
+Class weights in RandomForestClassifier - For handling imbalanced dataset
+Section 10:Model Selection & Boosting
+Boosting algorithm revise again
+Performance metrics (ROC, AUC curve) for classification
+P Value,T test,Chi Square Test, Anova Test
+DBScan
+Silhouette-clustering
+Skip-gram Algorithm, TF-IDF, Continuous Bag Of Words (CBOW), Bag of Words vs Word Embedding
+Section 7:Natural Language Processing(NLP)
+Word2Vec ---> https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+LSTM ---> https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+How, When, and Why Should You Normalize / Standardize / Rescale Your Data?
+Attention Model
+PDF, CDF
+Pipeline in Tensorflow
+Python deployment descriptor - pipreqs
+Deep Learning NLP - https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
+ML using Fast API
+Hugging face transformers
+BERT
+ASGI vs WSGI
+Attention Model implementation
+Custom pipeline
+EDA tools
+
+chatbot
+LSTM -->timeseries
+Tensorflow workout
+Tensorflow computer vision - Tensorflow object
+Flask with DB
+XGBoost Mathematical intuition
+L2 loss in ML-Useful_doc
+Classification losses
+Associated Rule learning
+Reinforcement Learning
+Transfer Learning
+one hot vs Label Encoding
+Recommendation system
+Handling & throwing exception
+Time series
+KNN
+Monitoring the model
+
+Least important
+***************
+Different Types of Feature Engineering Encoding Techniques - https://www.youtube.com/watch?v=OTPz5plKb40&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=2
+Fake News Classifier - Programming in http://localhost:8888/notebooks/Section%207%3ANatural%20Language%20Processing(NLP)/Youtube-Krish%20Naik/NLP%20Workouts/Fake%20News%20Classifier.ipynb
+Deployment using Flask with serverless, Google cloud & AWS ---> https://app.pluralsight.com/library/courses/deploying-machine-learning-solutions/table-of-contents
+Tensorboard
+
+
+Interview quiz
+**************
+
+Best classification Algorithm to predict 100 different classes? ---> clustering will be applied. V apply custom classification algorithm.
+Flask vs Django ----> D
+Resnet vs VGG 
+Image classification model
+**Tensorflow object detection
+Fast R-CNN ----> D
+kappa score ---> D
+
+
+
